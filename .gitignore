@@ -27,3 +27,4 @@ dist-ssr
 server/data/
 server/.venv/
 .env
+__pycache__/
