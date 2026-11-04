@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Langboard server
+server/data/
+server/.venv/
+.env
+__pycache__/
